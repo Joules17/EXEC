@@ -10,6 +10,5 @@ gcc leercadena_main.c -o leercadena
 ```
 ### Estudiantes
 ```
-🔎Sharon Zuleta Vanegas - 1742139-2711
 🔎Julian Andres Salamanca Tellez - 1841654-3743
 ```
